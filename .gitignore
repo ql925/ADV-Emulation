@@ -1,0 +1,30 @@
+# Generated build output
+/.build-tmp/
+/build/
+/managed_components/
+/sdkconfig
+/sdkconfig.old
+
+# Local logs and source backups
+/logs/
+/backups/
+*.bak
+*.tmp
+*.log
+
+# Local credentials and editor state
+.env
+.env.*
+!.env.example
+!.env.sample
+/.vs/
+/.idea/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache
+__pycache__/
+*.py[cod]

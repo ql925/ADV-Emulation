@@ -1,0 +1,16 @@
+[
+  {
+    "repository": "stm32duino/ST25R3916",
+    "commit": "f2617beece4cf513a50ee4f22972cee9e642bb6f",
+    "path": "src/rfal_rfst25r3916.cpp",
+    "url": "https://raw.githubusercontent.com/stm32duino/ST25R3916/f2617beece4cf513a50ee4f22972cee9e642bb6f/src/rfal_rfst25r3916.cpp",
+    "sha256": "8691C0DA384284A4645D63AE4065E4BC73A7375D5334D845284400FEFFE14E9B"
+  },
+  {
+    "repository": "m5stack/M5Unit-NFC",
+    "commit": "63c4caac1a07018ef73027e4b098d4fefe56c6f6",
+    "path": "src/nfc/layer/a/emulation_layer_a_ST25R3916.cpp",
+    "url": "https://raw.githubusercontent.com/m5stack/M5Unit-NFC/63c4caac1a07018ef73027e4b098d4fefe56c6f6/src/nfc/layer/a/emulation_layer_a_ST25R3916.cpp",
+    "sha256": "EDF9F8CB13DD9CB8B65FCCE5A3264B41E521CDBB918C323B1A073D5FB5613D6B"
+  }
+]

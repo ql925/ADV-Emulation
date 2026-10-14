@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-13",
+  "repository": "https://github.com/ciniml/paper_name_plate",
+  "commit": "7eac75dfc9a8c34509e383fd256473cf95bc5b52",
+  "sources": [
+    {
+      "path": "src/t2t_emu.rs",
+      "reference": "src-t2t_emu.rs.reference",
+      "url": "https://github.com/ciniml/paper_name_plate/blob/7eac75dfc9a8c34509e383fd256473cf95bc5b52/src/t2t_emu.rs",
+      "sha256": "3cbbd9529a2aba8f2c67433a8905e011367022e1c11194130c5b1887f421a8d8"
+    },
+    {
+      "path": "src/st25r3916.rs",
+      "reference": "src-st25r3916.rs.reference",
+      "url": "https://github.com/ciniml/paper_name_plate/blob/7eac75dfc9a8c34509e383fd256473cf95bc5b52/src/st25r3916.rs",
+      "sha256": "3a8568d7110b0999fee08e17af13cd364761b082cb27ab7dca5a48d20c7aeb82"
+    },
+    {
+      "path": "src/app/mod.rs",
+      "reference": "src-app-mod.rs.reference",
+      "url": "https://github.com/ciniml/paper_name_plate/blob/7eac75dfc9a8c34509e383fd256473cf95bc5b52/src/app/mod.rs",
+      "sha256": "99433498995f83143e72099df8756b47b9f683a5aea6f04299a4b8dc80ed3023"
+    },
+    {
+      "path": "DESIGN.md",
+      "reference": "DESIGN.md.reference",
+      "url": "https://github.com/ciniml/paper_name_plate/blob/7eac75dfc9a8c34509e383fd256473cf95bc5b52/DESIGN.md",
+      "sha256": "46e0510fde64c1dc3019a3af42ebde7e5ac1d54f228d945fb420d3f40a846d52"
+    }
+  ],
+  "input_document_sha256": "2b09f04a44afd3d86ff9245ec208e6dae38dc8d53cdab3da3c08aa25512fc0f5",
+  "implementation": "independent project-local C++ changes"
+}

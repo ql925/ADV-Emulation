@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/solosky/pixl.js/5521e315b62afe25289ce656e536202f7df8f89a/fw/application/src/ntag/ntag_emu_v2.c
+https://raw.githubusercontent.com/flipperdevices/flipperzero-firmware/7f0b6e1c14431708cfde75ae1ba13df59e868041/targets/f7/furi_hal/furi_hal_nfc.c
+https://raw.githubusercontent.com/stm32duino/ST25R3916/f2617beece4cf513a50ee4f22972cee9e642bb6f/src/rfal_rfst25r3916.cpp
+https://raw.githubusercontent.com/stm32duino/ST25R3916/f2617beece4cf513a50ee4f22972cee9e642bb6f/src/st25r3916_com.h
